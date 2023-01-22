@@ -33,7 +33,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Ross metas e um app para ajudar nas metas do futuro DEV 😆
 
-Esse projeto está sob a licença MIT.
-
 <p align="center">
 ;)
