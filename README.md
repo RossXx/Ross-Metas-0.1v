@@ -16,18 +16,12 @@ Programa feito por Ross! com apoio da Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <br>
-<<<<<<< HEAD
 <p align="center">
   <img alt="projeto Ross" src=".github/rosscapa.jpg" width="100%">
   </p>
-=======
 
 <p align="center">
-  <img alt="projeto Ross" src=".github/preview.jpg" width="100%">
-</p>
->>>>>>> 97493e96538ddf7fcdcca978dda9dbae4ba4dffb
-
-## 🚀 Tecnologias
+🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -36,15 +30,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+<p align="center">
+💻 Projeto
 
 Ross metas e um app para ajudar nas metas do futuro DEV 😆
 
-<<<<<<< HEAD
-## Licença
-=======
-
-# Licença
->>>>>>> 97493e96538ddf7fcdcca978dda9dbae4ba4dffb
-
+<p align="center">
 Esse projeto está sob a licença MIT.
