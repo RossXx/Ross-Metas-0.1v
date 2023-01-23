@@ -33,5 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Ross metas e um app para ajudar nas metas do futuro DEV 😆
 
+- [visite o projeto online](https://rossxx.github.io/Ross-Metas-0.1v/)
+
 <p align="center">
 ;)
