@@ -1,7 +1,7 @@
 <h1 align="center"> RossDevLinks </h1>
 
 <p align="center">
-Programa feito por Ross! com apoio da Rocketseat para ensino de tecnologias WEB. <br/>
+Programa feito por Ross (Eu Rogger Alves)! com apoio da Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
